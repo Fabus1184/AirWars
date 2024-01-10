@@ -1,0 +1,14 @@
+"airwars" {
+	"base" "base"
+	"title" "Air Wars Reloaded"
+	"maps" "^awr_"
+	"menusystem" "1"
+	"version" "0.1.0"
+	"author_name" "The HellBox & Fabus1184"
+	"author_email" "fabianlippold1184@gmail.com"
+	"author_url" "https://github.com/Fabus1184"
+	"icon" ""
+	"info" ""
+	"hide" "0"
+	"workshopid"	"1880144111"
+}
